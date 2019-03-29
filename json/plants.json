@@ -1,0 +1,83 @@
+[
+
+	{
+		"name":"Tomate Saint Pierre",
+		"semis": [
+			"mars",
+			"avril",
+			"mai"
+		],
+		"tempIdeal": 20,
+		"tempMini": 10,
+		"recolte": "juillet / août",
+		"espacement": "50cm",
+		"interval": "50cm"
+	},
+	{
+		"name":"Tomate Marmande",
+		"semis": [
+			"février (à l'interieur)",
+			"mars (à l'interieur)",
+			"avril",
+			"mai",
+			"juin",
+			"juillet",
+			"août",
+			"septembre"
+		],
+		"tempIdeal": 25,
+		"tempMini": 18,
+		"recolte": "août à Octobre",
+		"espacement": "50cm",
+		"interval": "80cm"
+	},
+	{
+		"name":"Cornichons vert de Paris",
+		"semis": [
+			"fevrier",
+			"mars",
+			"avril",
+			"mai pleine terre",
+			"juin pleine terre"
+		],
+		"tempIdeal": 20,
+		"tempMini": 10,
+		"recolte": "juin à septembre",
+		"espacement": "50cm",
+		"interval": "100cm"
+	},
+	{
+		"name":"Potiron Rouge d'Etampes",
+		"semis": [
+			"mars",
+			"avril",
+			"mai",
+			"juin"
+		],
+		"tempIdeal": 20,
+		"tempMini": 12,
+		"recolte": "Septembre à Novembre",
+		"espacement": "100cm",
+		"interval": "150cm"
+	},
+	{
+		"name":"Epinard Monstrueux de Viroflay",
+		"semis": [
+			"février",
+			"mars",
+			"avril",
+			"mai",
+			"juin",
+			"juillet",
+			"août",
+			"septembre"
+		],
+		"tempIdeal": 18,
+		"tempMini": 2,
+		"recolte": "Mars à Octobre",
+		"espacement": "10cm",
+		"interval": "25cm"
+	}
+	
+
+]

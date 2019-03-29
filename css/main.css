@@ -1,0 +1,116 @@
+body {
+	font-family: helvetica;
+	color: white;
+	margin: 0;
+	padding: 0;
+}
+
+
+#meteo_content {
+	width: 40vw;
+	height: 100vh;
+	text-align: center;
+	background-color: #19360A;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+#alert1 {
+	width: 100%;
+	height: 20%;
+	background: #ABD037;
+}
+#alert2 {
+	width: 100%;
+	height: 15%;
+	background: #4D7034;
+}
+#alert3 {
+	width: 100%;
+	height: 15%;
+	background: #2B491B;
+}
+p {
+	width: 80%;
+	height: 100%;
+	padding: 5px;
+	padding-top: 25px;
+	margin: auto;
+}
+h2 {
+	font-size: .8em;
+}
+
+
+.date {
+	color: white;
+	font-size: .7em;
+	border-bottom: 1px solid grey;
+}
+
+
+.temp_minmax_container {
+	bottom: 0;
+}
+
+.WeatherIcons {
+	
+	width: 30px;
+	height: auto;
+	margin-bottom: -7px;
+}
+.maxTemp {
+	color: white;
+	margin: 7px;
+}
+
+
+.minTemp {
+	color : white;
+	font-size: 0.7em;
+}
+
+
+#ephemeride {
+	position: absolute;
+	right: 50px;
+	top:0;
+	padding: 25px;
+	text-align: center;
+	color: #ABD037;
+	width: 33vw;
+}
+
+#time {
+	width: 100%;
+	text-align: center;
+}
+#day {
+	font-size: 4em;
+}
+#hours {
+	font-size: 4em;
+	font-weight: lighter;
+}
+#H {
+	font-size: 5em;
+	margin: -50px;
+	opacity: .2;
+}
+#minutes {
+	font-size: 4em;
+}
+#secunds {
+	font-size: 1.4em;
+	
+	margin-top: -35px;
+	margin-right: -100px;
+}
+
+#tempDay {
+	color:grey;
+	margin-top: 12px;
+}
+#temp {
+	font-size: 2em;
+}
